@@ -1,25 +1,3 @@
-# Hi there, I'm Edson Batista! 👋
-
-👨‍💻 Software Developer
-
-Passionate about software development, mobile technologies, and information security. Focused on building efficient solutions and continuously improving my skills in software engineering and cybersecurity.
-
-## 🛠 Tech Stack
-
-**Languages:** JavaScript • TypeScript • Python • Java
-
-**Frameworks & Tools:** Angular • Git • Linux • Zeek
-
-## 🎓 Background
-
-- Experience in Web and Mobile Development
-- Information Security & Digital Forensics Studies
-- Enthusiast of Software Engineering and Design Patterns
-
-## 🚀 Areas of Interest
-
-- Software Architecture
-- Cybersecurity
-- Mobile Development
-- Cloud Computing
-- Open Source
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+Edson!;" />
+</h1>
