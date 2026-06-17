@@ -45,7 +45,7 @@ Sou um profissional focado em criar soluções eficientes e com excelente experi
 Seja para conversar sobre uma oportunidade de trabalho, colaborar em um projeto ou apenas trocar experiências sobre tecnologia, sinta-se à vontade para entrar em contato!
 
 <p align="left">
-  <a href="https://linkedin.com/in/SEU_LINKEDIN_AQUI" target="_blank">
+  <a href="https://www.linkedin.com/in/edson-batista-172654277" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:seu.email@exemplo.com" target="_blank">
