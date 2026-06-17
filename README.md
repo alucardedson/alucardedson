@@ -34,8 +34,8 @@ Sou um profissional focado em criar soluções eficientes e com excelente experi
 ### 📈 Minhas Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alucardedson&show_icons=true&theme=radical&include_all_commits=true" alt="Estatísticas do GitHub" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alucardedson&layout=compact&theme=radical" alt="Linguagens mais usadas" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alucardedson&show_icons=true&theme=draculal&include_all_commits=true" alt="Estatísticas do GitHub" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alucardedson&layout=compact&theme=dracula alt="Linguagens mais usadas" height="180em" />
 </p>
 
 ---
