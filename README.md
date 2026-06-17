@@ -4,7 +4,7 @@
 
 ### 🚀 Desenvolvedor de Software | Bacharel em Ciência da Computação
 
-Sou um profissional focado em criar soluções eficientes e com excelente experiência de usuário. Combino uma sólida formação acadêmica com vivência prática em suporte técnico, lógica de sistemas e desenvolvimento de software. Adoro resolver problemas complexos e estou sempre pronto para aprender novas tecnologias.
+Sou um profissional focado em criar soluções eficientes e com excelente experiência de usuário. Combino uma sólida formação acadêmica com vivência prática em suporte técnico, lógica de sistemas e desenvolvimento de software. Atualmente, estou expandindo minhas habilidades em **Teste de Software (QA)**, buscando garantir a entrega de sistemas robustos, estáveis e com alta qualidade de código. Adoro resolver problemas complexos e estou sempre pronto para aprender novas tecnologias.
 
 ---
 
@@ -19,9 +19,9 @@ Sou um profissional focado em criar soluções eficientes e com excelente experi
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-#### **Back-end & Sistemas Corporativos**
+#### **Garantia de Qualidade (Em Aprendizado 📚)**
 <p align="left">
-  <img src="https://img.shields.io/badge/SAP%20ABAP-018577?style=for-the-badge&logo=sap&logoColor=white" alt="SAP ABAP" />
+  <img src="https://img.shields.io/badge/Testes%20de%20Software%20/%20QA-323330?style=for-the-badge&logo=lighthouse&logoColor=00CC66" alt="Testes de Software" />
 </p>
 
 #### **Ferramentas & Infraestrutura**
