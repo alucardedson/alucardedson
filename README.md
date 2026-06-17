@@ -19,6 +19,12 @@ Sou um profissional focado em criar soluções eficientes e com excelente experi
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
+#### **Back-end & Sistemas Corporativos**
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SAP%20ABAP-018577?style=for-the-badge&logo=sap&logoColor=white" alt="SAP ABAP" />
+</p>
+
 #### **Garantia de Qualidade (Em Aprendizado 📚)**
 <p align="left">
   <img src="https://img.shields.io/badge/Testes%20de%20Software%20/%20QA-323330?style=for-the-badge&logo=lighthouse&logoColor=00CC66" alt="Testes de Software" />
